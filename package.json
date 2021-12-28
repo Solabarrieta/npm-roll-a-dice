@@ -14,7 +14,15 @@
   "author": "Oier Solabarrieta <oiersolabarrieta@gmail.com>",
   "license": "MIT",
   "bin": {
-    "dice": "./bin/global.js"
+    "dice": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Solabarrieta/npm-roll-a-dice.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Solabarrieta/npm-roll-a-dice/issues"
+  },
+  "homepage": "https://github.com/Solabarrieta/npm-roll-a-dice#readme"
 }
