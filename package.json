@@ -1,0 +1,20 @@
+{
+  "name": "dado-de-oier",
+  "version": "1.0.0",
+  "description": "Outputs a random number between 1 and 6",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "Oier Solabarrieta <oiersolabarrieta@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "dice": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
